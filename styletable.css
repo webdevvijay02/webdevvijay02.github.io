@@ -60,10 +60,14 @@ nav ul {
   #myheader{
     background-color: lightblue;
     color: black;
-    padding: 50px;
+    padding: 25px;
     width: auto;
     text-align: center
   }
+  #p01{
+    text-align: center;
+  }
+
  
   
   
